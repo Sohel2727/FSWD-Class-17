@@ -1,0 +1,19 @@
+
+
+====How to integrate Bootstrap in my project====
+1.By using CDN(Content Delivery Network) link(Need Internet connection always)
+2.Manually Download(No need internet connection)
+
+
+============Grid System==========
+1.Container
+
+======Bootstrap colors====
+1.Primary
+2.Secondary
+3.Dark
+4.Light
+5.Info
+6.Warning
+7.Success
+8.Danger
